@@ -2,6 +2,10 @@
 
 # Generate Query Request Payload using Postman
 
+What is GraphQL:
+
+GraphQL is a query language for your API, and a server-side runtime for executing queries using a type system you define for your data. GraphQL isn't tied to any specific database or storage engine and is instead backed by your existing code and data.
+
 Source to construct this: https://community.boomi.com/s/question/0D51W000087iJB3SAM/how-to-construct-a-graphql-query-in-boomi
 
 Step-1: Send the request payload by clicking the Send button on the top-right corner, as per the below screenshot, so that we can generate the response.
