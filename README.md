@@ -2,6 +2,8 @@
 
 # Generate Query Request Payload using Postman
 
+Source to construct this: https://community.boomi.com/s/question/0D51W000087iJB3SAM/how-to-construct-a-graphql-query-in-boomi
+
 Step-1: Send the request payload by clicking the Send button on the top-right corner, as per the below screenshot, so that we can generate the response.
 
 Query:
