@@ -1,0 +1,20 @@
+{
+    "data": {
+        "country": {
+            "name": "India",
+            "native": "भारत",
+            "capital": "New Delhi",
+            "currency": "INR",
+            "languages": [
+                {
+                    "code": "hi",
+                    "name": "Hindi"
+                },
+                {
+                    "code": "en",
+                    "name": "English"
+                }
+            ]
+        }
+    }
+}
