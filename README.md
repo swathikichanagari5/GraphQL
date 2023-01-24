@@ -2,8 +2,6 @@
 
 # Generate Query Request Payload using Postman
 
-GraphQL Query can be tricky to directly write in Boomi process canvas. I recommend using Postman to generate the same with the following steps.
-
 Step-1: Send the request payload by clicking the Send button on the top-right corner, as per the below screenshot, so that we can generate the response.
 
 Query:
